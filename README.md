@@ -1,6 +1,6 @@
 
 # Hey, I'm Aniekan 👋  
-First-gen Builder in Tech & AI | Rising Sophomore @ Clarkson University | Creating intelligent, useful, and scalable things 💡  
+First-gen Builder in Tech & AI | Junior @ Clarkson University | Creating intelligent, useful, and scalable things 💡  
 
 📇 [LinkedIn](https://www.linkedin.com/in/aniekan-abasi-inyang/) • 📬 inyanganiekannjr10@gmail.com • 🌍 [GitHub](https://github.com/aniekanai)  
 
