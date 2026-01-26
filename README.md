@@ -9,7 +9,7 @@ First-gen Builder in Tech & AI | Junior @ Clarkson University | Creating intelli
 ## 🧠 About Me  
 Hi there! I’m **Aniekan-Abasi Inyang** — a curious, community-driven **Computer Science student** passionate about building scalable tools that merge logic, creativity, and impact.  
 
-I’m currently exploring **AI/ML, robotics, software engineering and systems programming**, with hands-on experience across web, backend, and data-intensive applications. From AI-powered IDE extensions to language learning assistants, I love solving hard problems and bringing ideas to life.  
+I’m currently exploring **AI/ML, robotics, software engineering and systems programming**, with hands-on experience across frontend, backend, and data-intensive applications. From AI-powered IDE extensions to language learning assistants, I love solving hard problems and bringing ideas to life.  
 
 As a **first-generation builder** 🇳🇬🇺🇸, I bring a global, innovative perspective to every project.  
 
@@ -24,9 +24,6 @@ As a **first-generation builder** 🇳🇬🇺🇸, I bring a global, innovative
 
 ## 🚀 Projects  
 Here are some of my favorite builds:  
-
-### 🔹 [Auto-Doc](https://github.com/aniekanai/auto-doc)  
-An **AI-powered VS Code extension + CLI tool** that auto-generates structured documentation for Python & ML workflows using GPT. Cuts documentation time by 40% and helps developers maintain clearer codebases.  
 
 ### 🔹 [Accent Learning Buddy](https://github.com/aniekanai/accent-learning-buddy)  
 A **GenAI desktop app** that helps users improve spoken English accents.  
