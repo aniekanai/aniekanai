@@ -29,7 +29,7 @@ Here are some of my favorite builds:
 A **GenAI desktop app** that helps users improve spoken English accents.  
 Built with Tkinter, OpenAI (GPT + Whisper), and Murf TTS for interactive, real-time feedback. Shortlisted for **Audience Choice Award** at Murf AI Hackathon.  
 
-### 🔹 Fake News Detection (Break Through Tech AI x Accenture)  
+### 🔹 Fake News Detection (Break Through Tech AI x Accenture)(https://github.com/AlexandruSoroiu/accenture-ai-studio-fall2025/tree/branch-aniekan/notebooks)
 NLP-powered system to detect misinformation using **Logistic Regression, Random Forests, and LSTMs** with custom trust scoring. Currently improving model precision/recall with TF-IDF features and hyperparameter tuning.  
 
 🔜 **Triangle Vision Project (NVIDIA Jetson)** – Exploring robotics + generative AI for an upcoming showcase.  
