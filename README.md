@@ -9,7 +9,7 @@ First-gen Builder in Tech & AI | Junior @ Clarkson University | Creating intelli
 ## 🧠 About Me  
 Hi there! I’m **Aniekan-Abasi Inyang** — a curious, community-driven **Computer Science student** passionate about building scalable tools that merge logic, creativity, and impact.  
 
-I’m currently exploring **AI/ML, robotics, software engineering and systems programming**, with hands-on experience across frontend, backend, and data-intensive applications. From AI-powered IDE extensions to language learning assistants, I love solving hard problems and bringing ideas to life.  
+I’m currently exploring **AI/ML, robotics, software engineering and systems programming**, with hands-on experience across frontend, backend, and data-intensive applications. I love solving hard problems and bringing ideas to life.  
 
 As a **first-generation builder** 🇳🇬🇺🇸, I bring a global, innovative perspective to every project.  
 
