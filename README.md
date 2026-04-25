@@ -16,6 +16,7 @@ I’m currently exploring **AI/ML, robotics, and AI research**, with hands-on ex
 
 ## 🧰 Languages & Tools  
 Claude Code • Cursor • OpenRouter • Docker • AWS • Figma • OpenAI API • Jupyter • VS Code 
+
 Python • TypeScript • C/C++ • Java • Go • MATLAB • R • JavaScript • SQL  
 PyTorch • Tensorflow • Scikit-Learn • Matplotlib • Seaborn • Fast API • NumPy • Pandas • Tkinter • React • Node.js • Gin   
 
