@@ -1,6 +1,6 @@
 
 # Hey, I'm Aniekan 👋  
-AI/ML, AI Research, Robotics | Junior @ Clarkson University | Creating intelligent, useful, and scalable things 💡  
+AI/ML, AI Research | Junior @ Clarkson University | Creating intelligent, useful, and scalable things 💡  
 
 📇 [LinkedIn](https://www.linkedin.com/in/aniekan-abasi-inyang/) • 📬 inyanganiekannjr10@gmail.com • 🌍 [GitHub](https://github.com/aniekanai)  
 
