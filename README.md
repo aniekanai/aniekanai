@@ -1,53 +1,43 @@
+# Aniekan-Abasi Inyang | SWE x ML Engineer
 
-# Hey, I'm Aniekan 👋  
-AI/ML, SWE, AI Research | Rising Senior @ Clarkson University | Creating intelligent, useful, and scalable things 💡  
+Aspiring Software Engineer & Machine Learning Engineer with a passion for building scalable, intelligent systems. I focus on clean code, scalable solutions, and continuous learning.
 
-📇 [LinkedIn](https://www.linkedin.com/in/aniekan-abasi-inyang/) • 📬 inyanganiekannjr10@gmail.com • 🌍 [GitHub](https://github.com/aniekanai)  
-
----
-
-## 🧠 About Me  
-Hi there! I’m **Aniekan-Abasi Inyang** — a curious, community-driven **Computer Science student** passionate about building scalable tools that merge logic, creativity, and impact.  
-
-I’m currently exploring **AI/ML, robotics, and AI research**, with hands-on experience across frontend, backend, and data-intensive applications. I love solving challenging problems and bringing ideas to life.  
-
+- 🎓 Honors CS @ Clarkson University (Minors: Math, Robotics)
+- 🔐 Security @ BNY • AI Researcher @ Algoverse • CodePath x ColorStack
+- 💻 Interests: Full-Stack Development, Machine Learning, AI Security
+- 🌱 Currently learning: System Design, GenAI Frameworks, AWS
+- 📬 Reach me: inyanganiekannjr10@gmail.com • [LinkedIn](https://www.linkedin.com/in/aniekan-abasi-inyang/)
 
 ---
 
-## 🧰 Languages & Tools  
+## 🧰 Technical Skills
 
-Claude Code • Cursor • OpenRouter • Docker • AWS • Figma • OpenAI API • Jupyter • VS Code 
+**Languages:** Python, TypeScript, C++, JavaScript, SQL
 
-Python • TypeScript • C/C++ • Java • Go • MATLAB • R • JavaScript • SQL  
-PyTorch • Tensorflow • Scikit-Learn • Matplotlib • Seaborn • Fast API • NumPy • Pandas • Tkinter • React • Node.js • Gin   
+**Frameworks & Tools:** React, Node.js, Docker, Git
 
----
+**Databases:** PostgreSQL
 
-## 🚀 Projects  
-Here are some of my favorite builds:  
-
-### 🔹 [Accent Learning Buddy](https://github.com/aniekanai/accent-learning-buddy)  
-A **GenAI desktop app** that helps users improve spoken English accents.  
-Built with Tkinter, OpenAI (GPT + Whisper), and Murf TTS for interactive, real-time feedback. Shortlisted for **Audience Choice Award** at Murf AI Hackathon.  
-
-### 🔹 Fake News Detection (Break Through Tech AI x Accenture)(https://github.com/AlexandruSoroiu/accenture-ai-studio-fall2025/tree/branch-aniekan/notebooks)
-NLP-powered system to detect misinformation using **Logistic Regression, Random Forests, and LSTMs** with custom trust scoring. Currently improving model precision/recall with TF-IDF features and hyperparameter tuning.  
-
-
+**Other:** REST APIs, FastAPI, PyTorch, Claude Code
 
 ---
 
-## 🎨 Interests  
-Outside of school, you’ll probably find me:  
-Playing soccer or the piano
-Designing creative side projects & automation tools    
-Exploring robotics & AI applications beyond the classroom  
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [World Cup 2026 Match Predictor](https://github.com/aniekanai/world-cup-2026-dixon-coles) | Built an Elo + Dixon-Coles goal model to predict World Cup match outcomes, backtested at 65.4% accuracy vs. a 33.3% random baseline across all 104 real 2026 tournament matches; served via a FastAPI backend and Streamlit UI. | Python, FastAPI, Streamlit, Docker, scikit-learn |
+| [CoHaven](https://github.com/aniekanai/cohaven) | AI agentic app that helps interns find housing faster — orchestrates search, extraction, and filtering of listings through a multi-step LangGraph agent powered by Claude. | Next.js, TypeScript, Tailwind CSS, LangGraph, LangChain, Anthropic Claude, Tavily |
+| [Edge Photo Agent](https://github.com/aniekanai/edge-photo-agent) | Real-time edge-AI photography co-pilot that guides framing and composition before the shutter is pressed, pairing local computer vision with an NVIDIA Nemotron VLM reasoning layer on a Jetson Nano. | Python, OpenCV, NVIDIA Jetson Nano, NVIDIA Nemotron VLM |
+| [Fake News Detection](https://github.com/AlexandruSoroiu/accenture-ai-studio-fall2025/tree/branch-aniekan/notebooks) | NLP system for Accenture's trust & safety initiative that classifies real vs. fake news and assigns credibility scores using Logistic Regression, Random Forest, and LSTM models. | Python, scikit-learn, LSTM, NLP |
+| [Accent Learning Buddy](https://github.com/aniekanai/accent-learning-buddy) | GenAI desktop app giving real-time spoken-English accent feedback via Whisper transcription and Murf TTS; shortlisted for the Audience Choice Award at the Murf AI Hackathon. | Python, Tkinter, OpenAI (GPT + Whisper), Murf TTS |
 
 ---
 
-## 📫 Contact  
-Want to collaborate, chat about AI, or just say hi?  
+## 📫 Contact
 
-💼 [LinkedIn](https://www.linkedin.com/in/aniekan-abasi-inyang/)  
-📧 inyanganiekannjr10@gmail.com  
-🌍 [GitHub Profile](https://github.com/aniekanai)  
+Want to collaborate, chat about AI, or just say hi?
+
+💼 [LinkedIn](https://www.linkedin.com/in/aniekan-abasi-inyang/)
+📧 inyanganiekannjr10@gmail.com
+🌍 [GitHub Profile](https://github.com/aniekanai)
