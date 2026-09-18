@@ -1,4 +1,4 @@
-# Aniekan-Abasi Inyang | SWE x ML Engineer
+# Aniekan-Abasi Inyang | Full Stack x ML Engineer
 
 Aspiring Software Engineer & Machine Learning Engineer with a passion for building scalable, intelligent systems. I focus on clean code, scalable solutions, and continuous learning.
 
