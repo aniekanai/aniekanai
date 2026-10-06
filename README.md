@@ -3,8 +3,8 @@
 Aspiring Software Engineer & Machine Learning Engineer with a passion for building scalable, intelligent systems. I focus on clean code, scalable solutions, and continuous learning.
 
 - 🎓 Honors CS @ Clarkson University (Minors: Math, Robotics)
-- 🔐 SWE Intern @ BNY • AI Researcher @ Algoverse • Prev SWE Intern x ML Engineer Fellow• CodePath x ColorStack
-- 💻 Interests: Full-Stack Development, Machine Learning, AI Security, Robotics
+- 🔐 SWE Intern @ BNY • Prev SWE Intern x ML Engineer Fellow• CodePath x ColorStack
+- 💻 Interests: Full-Stack Development, Machine Learning,
 - 🌱 Currently learning: System Design, LangGraph, AWS
 - 📬 Reach me: inyanganiekannjr10@gmail.com • [LinkedIn](https://www.linkedin.com/in/aniekan-abasi-inyang/)
 
