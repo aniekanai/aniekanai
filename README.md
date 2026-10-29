@@ -2,7 +2,7 @@
 
 Aspiring Software Engineer & Machine Learning Engineer with a passion for building scalable, intelligent systems. I focus on clean code, scalable solutions, and continuous learning.
 
-- 🎓 Honors CS @ Clarkson University (Minors: Math, Robotics)
+- 🎓 Computer Science @ Clarkson University (Minors: Math, Robotics)
 - 🔐 SWE Intern @ BNY • Prev SWE Intern x ML Engineer Fellow• CodePath x ColorStack
 - 💻 Interests: Full-Stack Development, Machine Learning,
 - 🌱 Currently learning: System Design, LangGraph, AWS
