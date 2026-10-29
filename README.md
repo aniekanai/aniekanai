@@ -7,6 +7,7 @@ Aspiring Software Engineer & Machine Learning Engineer with a passion for buildi
 - 💻 Interests: Full-Stack Development, Machine Learning,
 - 🌱 Currently learning: System Design, LangGraph, AWS
 - 📬 Reach me: inyanganiekannjr10@gmail.com • [LinkedIn](https://www.linkedin.com/in/aniekan-abasi-inyang/)
+- 📄 [Resume (PDF)](Aniekan_Inyang_Resume.pdf)
 
 ---
 
