@@ -1,25 +1,41 @@
-# Aniekan-Abasi Inyang | Full Stack x ML Engineer
+<h1 align="center">I'm Aniekan-Abasi Inyang</h1>
 
-Aspiring Software Engineer & Machine Learning Engineer with a passion for building scalable, intelligent systems. I focus on clean code, scalable solutions, and continuous learning.
+<p align="center">A software engineer building machine learning systems and AI agents, with a backend engineering foundation.</p>
 
-- 🎓 Computer Science @ Clarkson University (Minors: Math, Robotics)
-- 🔐 SWE Intern @ BNY • Prev SWE Intern x ML Engineer Fellow• CodePath x ColorStack
-- 💻 Interests: Full-Stack Development, Machine Learning,
-- 🌱 Currently learning: System Design, LangGraph, AWS
-- 📬 Reach me: inyanganiekannjr10@gmail.com • [LinkedIn](https://www.linkedin.com/in/aniekan-abasi-inyang/)
-- 📄 [Resume (PDF)](Aniekan_Inyang_Resume.pdf)
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/JokeDevil/JokeDevil/master/code.gif">
 
----
+🔭 I'm currently working at Tristar AI, an AI startup, and building Colin and AI/ML agent projects on my own.
 
-## 🧰 Technical Skills
+This past summer, I worked at BNY building AI agents for security.
 
-**Languages:** Python, TypeScript, C++, JavaScript, SQL
+🌱 Fields of Interest: AI/ML & Backend Systems
 
-**Frameworks & Tools:** React, Node.js, Docker, Git
+📍 Cambridge, MA (Eastern Time)
 
-**Databases:** PostgreSQL
+📫 How to reach me: inyanganiekannjr10@gmail.com
 
-**Other:** REST APIs, FastAPI, PyTorch, Claude Code
+📄 [Resume (PDF)](Aniekan_Inyang_Resume.pdf)
+
+## Languages and Tools
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,ts,js,java,go,react,nextjs" />
+<br>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi,nodejs,postgresql,docker,aws,git" />
+
+</div>
+
+## Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/aniekan-abasi-inyang/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="60" />
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 ---
 
@@ -34,11 +50,3 @@ Aspiring Software Engineer & Machine Learning Engineer with a passion for buildi
 | [RAG Customer Support Chatbot](https://github.com/aniekanai/rag-chatbot) | Retrieval-Augmented Generation chatbot that answers customer-support questions grounded in a knowledge base — embeds articles with Sentence-Transformers, retrieves the top matches via FAISS vector search, and generates answers with FLAN-T5, with a similarity threshold to avoid hallucinated replies. | Python, Sentence-Transformers, FAISS, Hugging Face Transformers, PyTorch |
 
 ---
-
-## 📫 Contact
-
-Want to collaborate, chat about AI, or just say hi?
-
-💼 [LinkedIn](https://www.linkedin.com/in/aniekan-abasi-inyang/)
-📧 inyanganiekannjr10@gmail.com
-🌍 [GitHub Profile](https://github.com/aniekanai)
