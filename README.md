@@ -35,4 +35,9 @@ This past summer, I worked at BNY building AI agents for security.
 </a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.tiktok.com/@aniekanai" target="_blank">
+  <img src="https://img.shields.io/badge/TikTok-%40aniekanai-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+</a>
+
 </p>
