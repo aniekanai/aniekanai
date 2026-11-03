@@ -8,7 +8,7 @@
 
 This past summer, I worked at BNY building AI agents for security.
 
-🌱 Fields of Interest: AI/ML & Backend Systems
+🌱 Fields of Interest: AI/ML & Backend Systems & AI Safety Research
 
 📍 Cambridge, MA (Eastern Time)
 
